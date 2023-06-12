@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://example.com/codeforces-banner.png" alt="Codeforces Banner">
+  <img src="https://codeforces-banner.png" alt="Codeforces Banner">
 </div>
 
 # Codeforces - Level 1700

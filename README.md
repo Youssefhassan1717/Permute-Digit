@@ -7,8 +7,7 @@
 </p>
 Problem Description
 
-The problem statement for this solution can be found on Codeforces. Visit the following link for more details: Problem Link
-Solution
+The problem statement for this solution can be found on Codeforces. Visit the following link for more details: <a href="https://codeforces.com/contest/915/problem/C">Problem Link</a>.
 
 The solution is implemented in C++ and provides an algorithm to find the desired permutation of a given string. It involves sorting the string, performing swaps, and ensuring the resulting permutation is not greater than the given string.
 

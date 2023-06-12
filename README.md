@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://www.google.com/search?q=codeforces+banner&client=firefox-b-d&sxsrf=APwXEdd-h0iZFraLKBf8BQNG4FgyRzM1cg:1686610898707&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj6jPeb677_AhVii_0HHZCdCPIQ_AUoAXoECAIQAw&biw=1536&bih=703&dpr=1.25#imgrc=dsqKgneKWbLTcM" alt="Codeforces Banner">
-</div>
 
 # Codeforces - Level 1700
 
